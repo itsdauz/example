@@ -80,5 +80,4 @@ int main ()
     }
     while (answr==1) ;
     return 0;
-
 }
